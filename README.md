@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mhzobaer26
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Programming and Web Developing
+- 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on w3school
+- ✨ Running Course Programming Hero Level 01 
 - 📫 How to reach me a best Programmer
 
 <!---
